@@ -32,9 +32,9 @@ function Footer() {
           <Col sm={6} lg={3} className='mb-4 mb-lg-0'>
             <div className='text-center'>
               <h5>Location</h5>
-              <p> 5505 Waterford District</p>
-              <p>Dr, Miami, FL 33126</p>
-              <p>United State</p>
+              <p> No:886/1</p>
+              <p>Dr, Rasika, Gampaha Road</p>
+              <p>Colombo</p>
             </div>
           </Col>
           <Col sm={6} lg={3} className='mb-4 mb-lg-0'>
@@ -48,7 +48,7 @@ function Footer() {
           <Col sm={6} lg={3} className='mb-4 mb-lg-0'>
             <div className='text-center'>
               <h5>Order Now</h5>
-              <p>Quaerat neque purus ipsum</p>
+              {/* <p>Quaerat neque purus ipsum</p> */}
               <p> 
                 <Link to="tel:0788948818" className='calling'>
                   78-8948818
@@ -59,7 +59,7 @@ function Footer() {
           <Col sm={6} lg={3} className='mb-4 mb-lg-0'>
             <div className='text-center'>
               <h5>Follow Us</h5>
-              <p>Quaerat neque purus ipsum</p>
+              {/* <p>Quaerat neque purus ipsum</p> */}
               <ul className='list-unstyled text-center mt-2'>
                 <li>
                   <Link to="/">
