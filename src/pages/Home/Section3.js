@@ -110,7 +110,7 @@ function Section3() {
             <Row>
                 <Col lg={{ span:8, offset:2 }} className='text-center mb-5'>
                     <h2>OUR CRAZY BURGERS</h2>
-                    <p className='para'>as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for </p>
+                    <p className='para'>Introducing our Crazy Burgers – a unique fusion of bold flavors and exciting combinations! Packed with mouthwatering ingredients, these burgers are designed to surprise your taste buds and take you on an unforgettable flavor adventure. Ready to go crazy?</p>
                 </Col>
             </Row>
             <Row>

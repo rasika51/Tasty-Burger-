@@ -11,7 +11,7 @@ function Section7() {
                 <Col sm={8} className='text-center'>
                     <h4>We Gurantee</h4>
                     <h2>30 Minutes Delivery!</h2>
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised</p>
+                    <p>Craving a delicious burger? Don’t wait long! We guarantee hot and fresh delivery within 30 minutes, so you can enjoy your meal without the wait. Fast, fresh, and always on time!</p>
                     <Link to="/" className='btn btn_red px-4 py-2 rounded-0'>
                         Call : 078-8948818
                     </Link> 

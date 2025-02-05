@@ -11,17 +11,17 @@ const mockData = [
     {
         image:Pizza,
         title: "Original",
-        paragraph: `t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here,`
+        paragraph: `Our burgers are crafted with authentic recipes, ensuring every bite delivers the original taste you love. Freshly prepared to bring timeless flavor straight to you.`
     },
     {
         image:Salad,
         title: "Quality Foods",
-        paragraph: `t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here,`
+        paragraph: `We believe in using only high-quality, fresh ingredients to serve you the best. Every burger is a perfect combination of premium taste and wholesome goodness.`
     },
     {
         image:Delivery,
         title: "Faster Delivery",
-        paragraph: `t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here,`
+        paragraph: `Craving a burger? We’ve got you covered! Enjoy hot and fresh burgers delivered to your doorstep quickly, so you never have to wait long.`
     },
 
     // Add more mock data objects as needed
@@ -37,7 +37,7 @@ function Section2() {
                 <Row>
                     <Col lg={{ span:8, offset: 2 }} className='text-center'>
                         <h2>The burger tastes better when you eat it with your familly</h2>
-                        <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                        <p>Nothing brings people together like a delicious burger. Enjoy the perfect bite with your loved ones – because every burger tastes better when shared with family, laughter, and unforgettable moments!</p>
                         <Link to="/" className ="btn order_now btn_red" >
                             Explore Full Menu
                         </Link>

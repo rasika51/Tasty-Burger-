@@ -14,21 +14,21 @@ function Section4() {
                 </Col>
                 <Col lg={6} className='px-5'>
                     <h2>Nothing brings people together like a good burger</h2>
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, </p>
+                    <p>There are countless types of burgers out there, but none quite like ours! Each bite is packed with fresh ingredients and a whole lot of love. When you're craving something delicious, you know where to come! </p>
                     <ul>
                         <li>
                             <p>
-                            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                            Let’s face it, there’s something magical about a burger that brings people together. Whether you’re laughing, chatting, or just enjoying a meal, it’s the perfect way to connect with those around you.
                             </p>
                         </li>
                         <li>
                             <p>
-                            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                            A burger’s more than just food; it’s an experience! So gather your loved ones, grab a burger, and make some awesome memories together—because nothing beats good times with great people and great food!
                             </p>
                         </li>
                         <li>
                             <p>
-                            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                            It’s a fact: when you enjoy a burger with your friends and family, it’s not just about the food—it’s about the memories you make. A burger is always better when shared!
                             </p>
                         </li>
                     </ul>
